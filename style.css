@@ -1,0 +1,22 @@
+body {font-family: 'Patrick Hand', cursive;
+}
+.headline {
+  background: #E8F9FA;
+  color: black }
+  #Kitten-pic {
+    height: auto;
+    width: 500px;
+    margin: 0px;
+    padding: 10px 10px 10px }
+  
+.Bio {
+  background: #BCD7F2;
+  color: black;
+  margin: 0px;
+  padding: 10px 10px 10px 10px }
+  
+.Links {
+  background: #EDE4FD;
+  color: black;
+  margin: 0px;
+  padding: 10px 10px 10px 10px }
