@@ -2,12 +2,36 @@ body {font-family: 'Patrick Hand', cursive;
 }
 .headline {
   background: #E8F9FA;
-  color: black }
+  color: black;
+  margin: 0px;
+  padding: 10px 10px 10px
+}
+
+ .mainsectionimage {
+  height: auto;
+  width: 245px;
+  padding: 10px 10px 10px;
+  float: right;
+  background-color: #E8F9FA;
+  overflow: hidden;
+  line-height: 0.01em;
+  margin: 0px;
+  text-align: left;
+
+}
   #Kitten-pic {
     height: auto;
     width: 500px;
     margin: 0px;
-    padding: 10px 10px 10px }
+    padding: 10px 10px 10px;
+    float: left;
+    background-color: #E8F9FA;
+    overflow: hidden;
+    line-height: 0.01em;
+    border: 1px solid #c8ccd1;
+  }
+    
+    
   
 .Bio {
   background: #BCD7F2;
@@ -20,3 +44,5 @@ body {font-family: 'Patrick Hand', cursive;
   color: black;
   margin: 0px;
   padding: 10px 10px 10px 10px }
+
+ 
